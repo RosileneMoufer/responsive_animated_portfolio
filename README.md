@@ -13,4 +13,4 @@ Para ser possível o Scroll horizontal funcionar com o click do mouse, criei a c
 <p>
 Para melhor experiência do usuário, troquei o ponteiro do mouse para o modo click quando estivesse na região de um botão, para isso, utilizei MouseRegion com a propriedade cursor: SystemMouseCursors.click. Pude perceber que a partir do momento em que se configura um botão, os outros botões passam a ter o mesmo comportamento. 
 </p>
-<p>Veja como ficou o projeto <a href="https://rosilenemoufer.github.io/responsive_animated_portfolio/#/">clicando aqui</a></p>
+<p>Veja como ficou o projeto <a href="https://rosilenemoufer.github.io/responsive_animated_portfolio/#/">clicando aqui</a>.</p>
